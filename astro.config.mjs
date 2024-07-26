@@ -8,7 +8,7 @@ export default defineConfig({
   integrations: [starlight({
     title: 'Adi Docs',
     social: {
-      github: 'https://github.com/sdldev/saiunadi.git'
+      github: 'https://github.com/J1BRIL99/saiunadi.my.id'
     },
     sidebar: [{
       label: 'Doc',
