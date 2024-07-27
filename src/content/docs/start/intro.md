@@ -2,9 +2,14 @@
 title: Intro
 description: Dokumentasi pribadi untuk menjadi sys admin
 ---
-
+:::note[Note.]
 Dokumentasi pribadi ini adalah catatan belajar membangun sebuah server, bagaimana cara memanage sebuah server dari sisi sys admin.
+:::
 
+#### Mari di pahami dulu apa itu server?
+
+> Server adalah sebuah perangkat komputer fisik dengan spesifikasi tertentu, komputer itu sendiri yang nantinya bertugas mengelola akses pada suatu jaringan, menyediakan layanan untuk website dan aplikasi serta untuk menyimpan informasi tertentu dari komputer lain yang sering disebut client.
+> Dengan kata lain, Komputer fisik yang menjalankan layanan system maupun aplikasi sering disebut juga dengan komputer server atau server. 
 
 #### Untuk Tujuan Apa Membangun Sebuah Server? 
 
@@ -23,3 +28,11 @@ Server dirancang dan dibuat untuk tujuan yang spesifik, misal:
 
 itu adalah sebagian kecil dari server, dan masih banyak server yang lain seperti, DNS Server, FTP Server, Proxy Server, Log Server dan sebagainya.
 
+#### Dan Sekarang Siapapun Bisa Membuat Server Itu Sendiri.
+
+>Sekarang membuat server sangatlah mudah, bahkan pemula pun bisa membuat server sendiri. Tidak perlu jago komputer jika hanya untuk membangun sebuah server, dengan memanfaatkan koneksi internet biasa, mudah dan murah.
+
+
+:::tip[Quote.]
+“Lebih baik pelajari satu atau dua bahasa pemrograman, dan fokus mendalaminya. Daripada mempelajari banyak bahasa program, tapi hanya dasarnya saja.”
+:::
