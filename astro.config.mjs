@@ -16,11 +16,11 @@ export default defineConfig({
         label: 'Start',
         link: '/start/intro/'
       }, {
-        label: 'Server',
-        link: '/start/server/'
-      }, {
         label: 'Create doc',
         link: '/start/create/'
+      }, {
+        label: 'New pages',
+        link: '/start/newpages/'
       }]
     }, {
       label: 'Network',
