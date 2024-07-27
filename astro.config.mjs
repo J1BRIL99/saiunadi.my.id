@@ -16,8 +16,8 @@ export default defineConfig({
         label: 'Start',
         link: '/start/intro/'
       }, {
-        label: 'Create doc',
-        link: '/start/create/'
+        label: 'Server local',
+        link: '/start/localhost/'
       }, {
         label: 'New pages',
         link: '/start/newpages/'
