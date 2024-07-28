@@ -19,7 +19,7 @@ export default defineConfig({
         label: 'Server local',
         link: '/start/localhost/'
       }, {
-        label: 'Server Hosting',
+        label: 'Server hosting',
         link: '/start/hosting/'
       }]
     }, {
