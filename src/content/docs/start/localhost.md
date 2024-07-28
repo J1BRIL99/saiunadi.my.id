@@ -29,6 +29,6 @@ description: Server Local untuk Jalankan Website Offline
 > Server local (localhost) ini Sama halnya dengan web hosting sama-sama untuk menyimpan dan mengelola data website.
 
 :::caution[Caution.]
-Untuk mengingat-ingat lagi, pengertian localhost umumnya digunakan saat komputer Anda difungsikan sebagai server lokal. Selain itu, localhost juga merupakan domain yang memungkinkan Anda melakukan pengujian website atau program serta memblokir website tertentu agar terhindar dari virus.
+Untuk mengingat-ingat lagi, pengertian localhost umumnya digunakan saat komputer itu sendiri difungsikan sebagai server lokal. Selain itu, localhost juga merupakan domain yang memungkinkan Anda melakukan pengujian website atau program serta memblokir website tertentu agar terhindar dari virus.
 :::
 

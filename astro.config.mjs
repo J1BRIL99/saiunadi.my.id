@@ -19,8 +19,8 @@ export default defineConfig({
         label: 'Server local',
         link: '/start/localhost/'
       }, {
-        label: 'New pages',
-        link: '/start/newpages/'
+        label: 'Server Hosting',
+        link: '/start/hosting/'
       }]
     }, {
       label: 'Network',
