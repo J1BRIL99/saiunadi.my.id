@@ -13,13 +13,13 @@ export default defineConfig({
     sidebar: [{
       label: 'Doc',
       items: [{
-        label: 'Start',
+        label: 'Intro',
         link: '/start/intro/'
       }, {
-        label: 'Server local',
+        label: 'Localhost',
         link: '/start/localhost/'
       }, {
-        label: 'Server hosting',
+        label: 'Hosting',
         link: '/start/hosting/'
       }]
     }, {

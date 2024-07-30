@@ -1,11 +1,12 @@
 ---
-title: Localhots.
+title: Server Lokal
 description: Server Local untuk Jalankan Website Offline
 ---
 
-#### Pengertian dan Fungsi Localhost.
+:::tip[Sedikit Mengenal dan Memahami Fungsi Server Lokal.]
+:::
 
-> Localhost adalah istilah yang digunakan untuk menyebut komputer itu sendiri, tidak ada arti lain. Localhost hanyalah sebutan bagi komputer yang kita gunakan, tapi dalam konteks yang lebih advanced di dunia IT, ketika komputer digunakan sebagai virtual server. 
+> Localhost atau yang sering disebut "**server lokal**" adalah istilah yang digunakan untuk menyebut komputer itu sendiri, tidak ada arti lain. Localhost hanyalah sebutan bagi komputer yang kita gunakan, tapi dalam konteks yang lebih advanced di dunia IT, ketika komputer digunakan sebagai virtual server. 
 >
 > Secara lebih spesifik, pengertian localhost bisa dianalogikan sebagai pengguna biasa, orang-orang umumnya menyebut komputer mereka sebagai “komputer”. Tapi, bagi para programmer atau developer, komputer yang mereka gunakan untuk melakukan pekerjaan disebut sebagai “localhost”.
 >
