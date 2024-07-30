@@ -3,13 +3,13 @@ title: Server Hosting
 description: Pengertian Web Hosting dan Cara Kerjanya
 ---
 
-:::tip[Pemahaman Singkat Web Hosting dan Cara Kerjanya.]
+:::note[Pemahaman Singkat Web Hosting dan Cara Kerjanya.]
 :::
 >
 >Server Hosting adalah sebuah layanan online yang digunakan untuk mengelola data situs atau aplikasi web oleh pengguna dan ditampilkan melalui via internet. File website yang tersimpan di dalam hosting berupa gambar, script, video, email, aplikasi, dan database (basis data). Saat anda menggunakan jaringan internet dan akan mengakses sebuah situs, maka hal yang pertama anda lakukan adalah menuliskan nama domain atau kata kunci tertentu pada halaman mesin pencari seperti Google.
->
-> #### Fungsi Hosting
->
+
+:::note[Fungsi Hosting.]
+:::
 >Hosting memiliki banyak sekali kegunaan yang dapat di manfaatkan terkait dengan pengembangan website untuk kebutuhan personal maupun company atau perusahaan. Berikut merupakan beberapa fungsi dari penggunaan hosting, diantaranya adalah sebagai berikut.
 >
 > 1. Membuat Halaman Website
@@ -23,9 +23,9 @@ Fungsi yang ketiga, untuk membuat email profesional atau domain sendiri. Tujuann
 >
 > 4. Mampu Melindungi Website dengan SSL
 Yang tkhir adalah untuk melindungi website dari serangan malware, virus, terindikasi serangan DDOS atau terkena spam. Oleh karena itu dengan adanya dukungan hosting, anda dapat memasang SSL (Secure Socket Layer) supaya situs anda lebih aman dan optimal.
->
-:::caution[Caution.]
->Hosting adalah sistem layanan online untuk mengelola sebuah situs oleh pengguna untuk ditampilkan melalui media internet. 
+
+:::caution[Note.]
+Hosting adalah sistem layanan online untuk mengelola sebuah situs oleh pengguna untuk ditampilkan melalui media internet. 
 Fungsi utama dari penggunaan hosting adalah mampu mengembangkan berbagai website, membuat email profesional, dan melindungi situs dengan bantuan SSL.
->Terdapat beberapa jenis web hosting, diantaranya adalah cloud based, dedicated, shared, VPS, dan WordPress hosting.
+Terdapat beberapa jenis web hosting, diantaranya adalah cloud based, dedicated, shared, VPS, dan WordPress hosting.
 :::

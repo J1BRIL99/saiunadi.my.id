@@ -3,9 +3,8 @@ title: Server Lokal
 description: Server Local untuk Jalankan Website Offline
 ---
 
-:::tip[Sedikit Mengenal dan Memahami Fungsi Server Lokal.]
+:::note[Sedikit Mengenal dan Memahami Fungsi Server Lokal.]
 :::
-
 > Localhost atau yang sering disebut "**server lokal**" adalah istilah yang digunakan untuk menyebut komputer itu sendiri, tidak ada arti lain. Localhost hanyalah sebutan bagi komputer yang kita gunakan, tapi dalam konteks yang lebih advanced di dunia IT, ketika komputer digunakan sebagai virtual server. 
 >
 > Secara lebih spesifik, pengertian localhost bisa dianalogikan sebagai pengguna biasa, orang-orang umumnya menyebut komputer mereka sebagai “komputer”. Tapi, bagi para programmer atau developer, komputer yang mereka gunakan untuk melakukan pekerjaan disebut sebagai “localhost”.
@@ -15,8 +14,9 @@ description: Server Local untuk Jalankan Website Offline
 > Untuk mengakses localhost, Anda biasanya harus menggunakan alamat IP default atau disebut juga dengan loopback address.
 >
 > Loopback address adalah alamat IP yang digunakan untuk mengakses localhost atau virtual server di komputer itu sendiri. Sebenarnya, semua website memiliki alamat IP khusus yang membuatnya bisa diakses oleh komputer. Namun, karena angka-angka alamat IP sulit diingat, akhirnya terciptalah nama domain. Dengan kata lain, localhost juga merupakan domain karena memiliki alamat IP sendiri.
->
-> Fungsi localhost adalah untuk mengakses website secara lokal atau offline. Jika Anda adalah developer atau administrator jaringan, localhost akan sangat membantu pekerjaan Anda.
+:::note[Fungsi localhost.]
+:::
+> Tentunya salah satu untuk mengakses website secara lokal atau offline. Jika Anda adalah developer atau administrator jaringan, localhost akan sangat membantu pekerjaan Anda.
 > Berbagai kegunaan localhots:
 > - _Untuk mengakses website secara lokal atau offline._
 > - _Menguji kecepatan jaringan dan melihat detail performa jaringan._
@@ -29,7 +29,7 @@ description: Server Local untuk Jalankan Website Offline
 >
 > Server local (localhost) ini Sama halnya dengan web hosting sama-sama untuk menyimpan dan mengelola data website.
 
-:::caution[Caution.]
+:::caution[Note.]
 Untuk mengingat-ingat lagi, pengertian localhost umumnya digunakan saat komputer itu sendiri difungsikan sebagai server lokal. Selain itu, localhost juga merupakan domain yang memungkinkan Anda melakukan pengujian website atau program serta memblokir website tertentu agar terhindar dari virus.
 :::
 
