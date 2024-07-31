@@ -25,9 +25,12 @@ export default defineConfig({
     }, {
       label: 'Network',
       items: [{
-        label: 'Index',
-        link: '/network/prolog/'
+        label: 'LAN',
+        link: '/network/lan/'
       }, {
+          label: 'WAN',
+          link: '/network/wan/'
+        }, {
         label: 'Definisi',
         link: '/network/definisi/'
       }, {
