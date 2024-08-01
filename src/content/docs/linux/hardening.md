@@ -4,7 +4,7 @@ description: Hardening debian server
 ---
 Dari katanya, terlihat hardening bertujuan untuk meningkatkan keamanan sistem operasi yang akan di gunakan untuk server
 
-## Install system audit
+###### Install system audit
 ```sh
 apt install git
 git clone https://github.com/CISOfy/lynis
@@ -20,7 +20,7 @@ Dari gambar diatas terlihat nilai index hanya 63. Semakin tinggi nilai index, ak
 
 pada lynis diberikan rekomondasi2 manasaja yang bisa kita kulik.
 
-### Hardening SSH
+###### Hardening SSH
 ```sh
 wget https://raw.githubusercontent.com/sdldev/server/main/ssh/hardening-ssh && 
 sudo mv hardening-ssh /etc/ssh/sshd_config && 

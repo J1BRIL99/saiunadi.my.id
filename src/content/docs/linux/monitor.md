@@ -3,18 +3,18 @@ title: monitor
 description: monitor linux
 
 ---
-## uptime
+###### uptime
 Melihat waktu operasional server
 ```sh 
 uptime
 ```
-## free
+###### free
 Melihat memory terpakai dan tidak terpakai (termasuk swap) server
 ```sh 
 free
 ```
 
-## htop
+###### htop
 ***htop*** monitoring realtime CPU, RAM dan proses yang berjalan pada server
 
 ```sh
@@ -26,7 +26,7 @@ htop
 ![htop](/images/linux/htop.png "htop")
 
 
-## iftop
+###### iftop
 ```sh
 apt install iftop
 ```

@@ -3,25 +3,25 @@ title: Tunneling VPN
 description: Cara seeting tunnel VPN dengan wireguard
 ---
 
-## Standard Setup
+###### Standard Setup
 
-## CHR Server
+###### CHR Server
 sad a
-### Create and Connect
+###### Create and Connect
 ```asdasd```
-### Route
+###### Route
 ```asdasd```
-### Firewall / NAT
+###### Firewall / NAT
 ```asdasd```
 
-## Mikrotik Client
+###### Mikrotik Client
 sad a
-### Create and Connect
+###### Create and Connect
 ```asdasd```
-### Route
+###### Route
 ```asdasd```
-### Firewall / NAT
+###### Firewall / NAT
 ```asdasd```
 
-## Hardening
+###### Hardening
 ```asdasd```

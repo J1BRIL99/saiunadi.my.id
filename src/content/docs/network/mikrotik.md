@@ -3,18 +3,19 @@ title: Setup Mikrotik
 description: tutorial setting firewall mikrotik
 ---
 
-## Standard Setup
+:::note[Standard Setup.]
+:::
 
-## Firewall
+###### Firewall
 sad a
-### Accept/Allow
+###### Accept/Allow
 ```asdasd```
-### Drop Coonection
+###### Drop Coonection
 ```asdasd```
-### Scaning
+###### Scaning
 ```asdasd```
-### DDOS
+###### DDOS
 ```asdasd```
 
-## NAT
+###### NAT
 ```asdasd```

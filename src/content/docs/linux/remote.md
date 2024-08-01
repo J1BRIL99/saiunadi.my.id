@@ -3,27 +3,27 @@ title: Remote
 description: Cara Remote Server Dengan Menggunakan SSH
 ---
 
-# REMOTE SSH
+### REMOTE SSH
 
-### Generate an SSH Key
+###### Generate an SSH Key
 keygen
 
 ```sh
 ssh-keygen -t rsa -b 4096
 ```
-### Copy the key to a server
+###### Copy the key to a server
 
 ```sh
 ssh-copy-id username@ipserver
 ```
 
-### Test the new key
+###### Test the new key
 
 ```sh
 ssh -i ~/.ssh/id_rsa.pub username@ipserver
 ```
 
-## COPY FILE (SCP)
+#### COPY FILE (SCP)
 
 Berfungsi untuk copy file menggunakan SSH (seperti FTP)
 

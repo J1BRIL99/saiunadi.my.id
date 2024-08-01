@@ -4,14 +4,14 @@ description: Comand Line linux
 ---
 Saya akan fokus CLI spesifik untuk SYS ADMIN, dan cli di bawah langsung di gunakan ketika bangun sebuah web server. Untuk lebih spesifik, nanti akan di pisah sesuai kegunaan masing-server
 
-## Dasar
+#### Dasar
 ***superuser do*** memiliki hak akses/keamanan penuh
 ```
 sudo
 ```
-### REMOTE
+###### REMOTE
 
-### cek koneksi
+###### cek koneksi
 cek menuju IP spesifik
 
 Note: ketika installasi paket tertentu, maka di butuhkan akses online.
@@ -19,29 +19,29 @@ Note: ketika installasi paket tertentu, maka di butuhkan akses online.
 ping xxx.xx.xxx.x
 ```
 
-#### Remote via SSH
+###### Remote via SSH
 ```
 ssh root@xxx.xxx.x.xx
 ```
 xxx.xxx.x.xx merupakan ip tujuan
 
 
-## Setup
+#### Setup
 
 
-### Update & upgrade
+###### Update & upgrade
 
 ```
 apt update && apt upgrade -y
 ```
 
-### Install Basic
+###### Install Basic
 
 ``` js
 sudo apt install git curl wget nano unzip sudo -y
 ```
 
-## Create User
+#### Create User
 ```sh
 adduser user_name
 usermod -aG sudo user_name

@@ -8,7 +8,7 @@ description: Local Area Network (LAN)
 >
 > Networking dalam bahasa Inggris berarti **jaringan**, sebuah jaringan dalam dunia IT, Network berarti jaringan komputer yang saling terhubung satu sama lain, baik itu jaringan yang terhubung menggunakan internet, atau terhubung secara lokal menggunakan kabel Local Area Network (LAN) dan WAN (Wide Area Network).
 >
-> ##### Fungsi LAN.
+> ###### Fungsi LAN.
 >> 1. Menghubungkan 2(dua) Komputer atau Lebih.
 >> Jaringan lan digunakan untuk menghubungan 2(dua) komputer atau lebih baik secara langsung ataupun media perantara. 2(dua) komputer dapat dihubungkan langsung menggunakan kabel UTP (Unshield Twisted Pair) yang tersambung di kedua komputer.
 >> Sementara untuk menggabungkan banyak komputer, kita membutuhkan perangkat lain seperti misalnya Switch atau juga Hub.
@@ -29,15 +29,15 @@ description: Local Area Network (LAN)
 >> Jaringan LAN dapat pula dipakai untuk mengirim pesan antar komputer pada area LAN. Aktivitas ini bahkan dapat dilakukan tanpa harus terkoneksi ke internet meskipun nantinya jaringan LAN akan tetap terlihat online.
 >> Untuk menjalankan LAN Chatting, dapat menggunakan aplikasi bawaan operating system (OS) yang anda gunakan atau menggunakan perangkat lunak LAN Chatting lainnya.
 >>
-> ##### Kelebihan dan Kekurangan LAN.
+> ###### Kelebihan dan Kekurangan LAN.
 > LAN hanya mencakup area yang kecil. Dengan cakupannya ini, tentu LAN mempunyai kelebihan dan kekurangan tersendiri. Berikut adalah kelebihan dan kekurangan dari LAN.
 >
-> ##### Kelebihan LAN.
+> ###### Kelebihan LAN.
 > Karena jangkauannya yang hanya mencakup area kecil, LAN tidak akan menguras terlalu banyak biaya. Selain itu, kabel yang digunakan pun tidak terlalu panjang. Ini akan lebih menghemat biaya.
 > Melalui LAN, koneksi transfer data antar node akan berlangsung dengan cepat.
 > Jaringan LAN tidak membutuhkan operator telekomunikasi untuk dapat membuat jaringan.
 >
-> ##### Kekurangan LAN.
+> ###### Kekurangan LAN.
 > Luas wilayah koneksi terbatas. Hal ini karena LAN hanya mencakup area lokal saja.
 
 

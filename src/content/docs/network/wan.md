@@ -6,14 +6,14 @@ description: Wide Area Network (WAN).
 :::note[Pengertian dan mafaat dari Networking dalam dunia IT.]
 :::
 
->  ##### Fungsi
+>  ###### Fungsi
 > Wide Area Network (WAN) adalah jaringan komputer yang luas cakupannya dapat mencapai satu negara bahkan benua. Jaringan ini merupakan gabungan dari LAN dan MAN yang wilayahnya dipisahkan secara geografis.
 >
 > Membangun jaringan WAN membutuhkan kabel serat optik (fiber optic), kabel telepon, atau bisa juga menggunakan satelit. Oleh karena jangkauannya yang luas, membuat WAN memerlukan biaya yang sangat besar.
 >
 > WAN mempunyai transmisi kecepatan mulai dari 2 Mbps, 34 Mbps, 45 Mbps, 155 Mbps, 625 Mbps atau bahkan lebih. Faktor yang menjadi pengaruh design dan performa jaringan ini ada pada siklus komunikasi semacam jaringan telepon atau satelit.
 >
-> ##### Jaringan WAN mempunyai karakteristik tersendiri, berikut ini:
+> ###### Jaringan WAN mempunyai karakteristik tersendiri, berikut ini:
 >
 >> - Umumnya digunakan untuk menghubungkan perangkat-perangkat yang tidak dapat dihubungkan melalui jaringan LAN maupun MAN. Hal ini membuat WAN dapat digunakan secara luas.
 >>
@@ -23,7 +23,7 @@ description: Wide Area Network (WAN).
 >>
 >> - Jaringan WAN ini bekerja pada layer fisik dan pada layer data link dari layer OSI.
 >
-> ##### Fungsi WAN
+> ###### Fungsi WAN
 > Sebagai jaringan komputer yang melebihi LAN dan MAN, WAN mempunyai fungsi yang cukup mentereng. Berikut adalah fungsi dari jaringan WAN.
 >> 1. Membuat Arus Komunikasi Menjadi Lebih Mudah dan Cepat.
 >> WAN merupakan jaringan yang mencakup area yang sangat luas dan mempunyai kecepatan yang mumpuni sekalipun digunakan pada wilayah yang berbeda. Dengan WAN, komunikasi dua instansi yang beda wilayah dapat berlangsung mudah dan cepat.
