@@ -36,12 +36,12 @@ description: Tutorial jaringan
 :::
 > 
 > ###### Network Interface Card (NIC)
-> - dalah komponen penting dalam penyediaan jaringan dalam komputer dan server. Ini merupakan komponen berupa circuit card yang nantinya dipasang pada perangkat komputer.
+> - Adalah komponen penting dalam penyediaan jaringan dalam komputer dan server. Ini merupakan komponen berupa circuit card yang nantinya dipasang pada perangkat komputer.
 > 
-> ###### IP Address ()
-> - Internet Protocol AddressIP addresderetan angka yang mewakili identitas perangkat ketika terhubung ke internet atau infrastruktur jaringan lainnya. Sama seperti nomor pada alamat rumah, IP Address berfungsi untuk memastikan data dikirim ke perangkat yang tepat. > - Rentang angkanya adalah dari 0.0.0.0 sampai 255.255.255.255.
+> ######  Internet Protocol Address (IP Address)
+> - Internet Protocol Address atau sering di sebut IP addres merupakan deretan angka yang mewakili identitas perangkat ketika terhubung ke internet atau infrastruktur jaringan lainnya. Sama seperti nomor pada alamat rumah, IP Address berfungsi untuk memastikan data dikirim ke perangkat yang tepat. > - Rentang angkanya adalah dari 0.0.0.0 sampai 255.255.255.255.
 > 
-> ###### DNS (Domain Name System)
+> ###### Domain Name System (DNS)
 Dengan adanya DNS, domain atau hostname yang ada akan ditranslate dan diterjemahkan dalam alamat IP sehingga dapat diakses. DN
 
 :::tip[Masing – masing tugas dari Client dan Server.]
