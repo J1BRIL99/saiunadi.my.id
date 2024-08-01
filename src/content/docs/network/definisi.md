@@ -35,11 +35,14 @@ description: Tutorial jaringan
 | Packet Filtering | Hub tidak menyediakan penyaringan paket | Switch menggunakan mode transmisi full duplex |
 :::
 > 
-> ###### NIC:
+> ###### Network Interface Card (NIC)
+> - dalah komponen penting dalam penyediaan jaringan dalam komputer dan server. Ini merupakan komponen berupa circuit card yang nantinya dipasang pada perangkat komputer.
 > 
-> ###### IP:
+> ###### IP Address ()
+> - Internet Protocol AddressIP addresderetan angka yang mewakili identitas perangkat ketika terhubung ke internet atau infrastruktur jaringan lainnya. Sama seperti nomor pada alamat rumah, IP Address berfungsi untuk memastikan data dikirim ke perangkat yang tepat. > - Rentang angkanya adalah dari 0.0.0.0 sampai 255.255.255.255.
 > 
-> ###### DNS:
+> ###### DNS (Domain Name System)
+Dengan adanya DNS, domain atau hostname yang ada akan ditranslate dan diterjemahkan dalam alamat IP sehingga dapat diakses. DN
 
 :::tip[Masing – masing tugas dari Client dan Server.]
 
