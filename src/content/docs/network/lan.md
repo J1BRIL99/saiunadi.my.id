@@ -29,7 +29,6 @@ description: Local Area Network (LAN)
 >> Jaringan LAN dapat pula dipakai untuk mengirim pesan antar komputer pada area LAN. Aktivitas ini bahkan dapat dilakukan tanpa harus terkoneksi ke internet meskipun nantinya jaringan LAN akan tetap terlihat online.
 >> Untuk menjalankan LAN Chatting, dapat menggunakan aplikasi bawaan operating system (OS) yang anda gunakan atau menggunakan perangkat lunak LAN Chatting lainnya.
 >>
-
 > ##### Kelebihan dan Kekurangan LAN.
 > LAN hanya mencakup area yang kecil. Dengan cakupannya ini, tentu LAN mempunyai kelebihan dan kekurangan tersendiri. Berikut adalah kelebihan dan kekurangan dari LAN.
 >
