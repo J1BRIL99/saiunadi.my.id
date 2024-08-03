@@ -6,22 +6,22 @@ description: Tutorial jaringan
 :::note[Definisi Networking dalam dunia IT.]
 :::
 >
-> ###### Jaringan komputer (computer network)
+> ###### ```Jaringan komputer (computer network)```
 > Merupakan jejaring telekomunikasi yang memungkinkan antar komputer untuk saling berkomunikasi dengan bertukar data.
 >
-> ###### Jaringan lokal (LAN) (Local Area Network)
+> ###### ```Jaringan lokal (LAN) (Local Area Network)```
 > Jaringan komputer yang terbatas pada area lokal, seperti kantor, sekolah, atau rumah. LAN biasanya menggunakan kabel atau koneksi nirkabel untuk menghubungkan perangkat-perangkat dalam jaringan.
 >
-> ###### Jaringan Luas (WAN) (Wide Area Network)
+> ###### ```Jaringan Luas (WAN) (Wide Area Network)```
 > Jaringan komputer yang mencakup area yang lebih luas, seperti kota, negara, atau bahkan seluruh dunia. WAN menghubungkan berbagai jaringan lokal dan memungkinkan komunikasi antar jaringan yang berbeda. Internet adalah contoh terbesar dari jaringan WAN, yang menghubungkan jutaan komputer di seluruh dunia.
 >
-> ###### Internet (interconnected network)
+> ###### ```Internet (interconnected network)```
 > Arti harfiah "***jaringan yang saling berhubungan***" adalah sistem jaringan komputer yang saling terhubung secara global dengan menggunakan paket protokol internet (TCP/IP) untuk menghubungkan perangkat di seluruh dunia. 
 >
-> ###### Jaringan nirkabel (wireless network)
+> ###### ```Jaringan nirkabel (wireless network)```
 > Adalah wifi bidang disiplin yang berkaitan dengan komunikasi antar sistem komputer tanpa menggunakan kabel
 > 
-> ###### Access Point (Wireless access point (WAP))
+> ###### ```Access Point (Wireless access point (WAP))```
 > Yang juga dikenal sebagai access point adalah perangkat keras yang digunakan dalam jaringan area lokal nirkabel untuk mengirim dan menerima data.
 > 
 :::caution[Hub/Switch.]
@@ -35,13 +35,13 @@ description: Tutorial jaringan
 | Packet Filtering | Hub tidak menyediakan penyaringan paket | Switch menggunakan mode transmisi full duplex |
 :::
 > 
-> ###### Network Interface Card (NIC)
+> ###### ```Network Interface Card (NIC)```
 > Adalah komponen penting dalam penyediaan jaringan dalam komputer dan server. Ini merupakan komponen berupa circuit card yang nantinya dipasang pada perangkat komputer.
 > 
-> ######  Internet Protocol Address (IP Address)
+> ######  ```Internet Protocol Address (IP Address)```
 > Internet Protocol Address atau sering di sebut IP addres merupakan deretan angka yang mewakili identitas perangkat ketika terhubung ke internet atau infrastruktur jaringan lainnya. Sama seperti nomor pada alamat rumah, IP Address berfungsi untuk memastikan data dikirim ke perangkat yang tepat. > - Rentang angkanya adalah dari 0.0.0.0 sampai 255.255.255.255.
 > 
-> ###### Domain Name System (DNS)
+> ###### ```Domain Name System (DNS)```
 >DNS adalah sebuah sistem yang bertugas menyimpan semua informasi data domain dalam jaringan. Dengan adanya DNS, domain atau hostname yang ada akan ditranslate dan diterjemahkan dalam alamat IP yang bisa dipahami oleh sistem komputer tanpa harus mengingat susunan angka yang sulit untuk dimengerti. Sehingga dengan adanya DNS, hanya perlu mengingat nama domain website saja untuk dapat diakses.
 >
 :::tip[Masing – masing tugas dari Client dan Server.]
