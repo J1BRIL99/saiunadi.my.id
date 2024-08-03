@@ -51,7 +51,7 @@ Langkah Konfigurasi:
 > Setelah itu masukkan isikan bagian Chain dan Out-interface , untuk Out-interface masukkan interface yang mengarah ke ISP (sumber internet).
 > 
 > Jangan lupa di tab ***action*** , isikan dengan action = **masquerade**
-> ![lynis](/images/mikrotik/gambar67.webp "lynis")
+> ![lynis](/images/mikrotik/gambar6.webp "lynis")
 > 
 > Jika belum terhubung ke internet untuk windows pergi ke ***Open Network and Sharing Center*** lalu ke ***Change Adapter Settings***. dan masuk ke ***Setting lalu ***Network***.
 > ![lynis](/images/mikrotik/gambar7.webp "lynis")
