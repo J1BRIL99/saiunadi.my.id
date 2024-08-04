@@ -34,7 +34,7 @@ export default defineConfig({
         label: 'Definisi',
         link: '/network/definisi/'
       }, {
-        label: 'Setting Mikrotik',
+        label: 'Konfigurasi',
         link: '/network/mikrotik/'
       }, {
         label: 'VPN',
