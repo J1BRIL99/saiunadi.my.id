@@ -22,9 +22,9 @@ Konfigurasi MikroTik menggunakan WinBox:
 > 
 > Fungsi dari IP Address yang paling utama adalah menangani koneksi antar perangkat pengirim dan penerima melalui sebuah jaringan. IP Address ini adalah sebuah alamat yang mengidentifikasi perangkat di internet.
 >
-> ```IP -> Addresses -> Addresses List``` klik ```( + ) -> Address```, isikan IP address ```-> Interface ->``` pilih ```ether5 -> Apply/OK```
+> ```IP -> Addresses -> Addresses List``` klik ```( + ) ->``` Address, ```isikan IP address ->``` Interface pilih ```ether5 -> Apply/OK```
 >
-> - **ether5** untuk internet keluar (public).
+> ```ether5``` disini di peruntukan untuk (public) atau internet keluar.
 > 
 > ![lynis](/images/mikrotik/gambar2.webp "lynis")
 > 
@@ -38,7 +38,7 @@ Konfigurasi MikroTik menggunakan WinBox:
 > 
 > ![lynis](/images/mikrotik/gambar3.webp "lynis")
 >
-> Sekarang coba test ping ke google dari Router , jika konfigurasinya benar maka hasilnya pasti sudah bisa ping ke Google.com
+> Sekarang coba test ```ping``` ke google dari Router, jika konfigurasinya benar maka hasilnya pasti sudah bisa ```ping ke Google.com```
 > 
 > ![lynis](/images/mikrotik/gambar4.webp "lynis")
 >
@@ -46,7 +46,7 @@ Konfigurasi MikroTik menggunakan WinBox:
 > 
 > DHCP merupakan service yang memiliki fungsi utama mendistribusikan IP Address secara otomatis kepada setiap client yang terhubung dengan jaringan.
 >
-> ```IP -> DHCP Server ->``` tab ```DHCP``` klik ```( + ) -> DHCP Setup ->``` kemudian ```DHCP Server Interface ->``` pilih ```ether5 -> Next-Next ->``` sampai selesai kemudian ```OK```
+> ```IP -> DHCP Server ->``` tab ```DHCP``` klik ```( + ) ->``` menu DHCP Setup lalu DHCP Server Interface pilih= ```ether5 -> Next-Next ->``` sampai selesai kemudian ```OK```
 >
 > **ether5** disini sebagai sumber internet keluar (public) yang terhubung ke pc/laptop.
 >
