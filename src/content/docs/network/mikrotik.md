@@ -11,18 +11,19 @@ Konfigurasi MikroTik menggunakan WinBox:
 > 
 > DHCP (Dynamic Host Configuration Protocol) berfungsi berfungsi dalam memastikan supaya perangkat yang terhubung di sebuah jaringan memperoleh alamat IP sesuai dengan yang diberikan server atau sumber internet, yaitu dengan cara ke menu:
 >
-> ```IP -> DHCP Client -> interface -> ether1 -> Apply/OK```
-> - **ether1** disini sebagai suber masuk Internet.
+> ```IP -> DHCP Client ->``` pada tab ```DHCP Client``` klik ```( + ) ->``` tab ```DHCP``` pada ```Interface``` pilih= ```ether1 -> Apply/OK```
+>
+> ```ether1``` disini sebagai suber masuk Internet.
 >
 > ![lynis](/images/mikrotik/gambar1.webp "lynis")
 > 
-> - Jika sudah pastikan di bagian status itu ***Bound***.
+> Lihat pada menu tab ```DHCP Client``` pastikan di bagian ```Interface //> status //> Bound```
 >
 ###### ```2. Menambahkan IP Address```
 > 
 > Fungsi dari IP Address yang paling utama adalah menangani koneksi antar perangkat pengirim dan penerima melalui sebuah jaringan. IP Address ini adalah sebuah alamat yang mengidentifikasi perangkat di internet.
 >
-> ```IP -> Addresses -> Addresses List``` klik ```( + ) ->``` Address, ```isikan IP address ->``` Interface pilih ```ether5 -> Apply/OK```
+> ```IP -> Addresses ->``` tab ```Address List``` klik ```( + ) ->``` bagian ```Address``` isikan ```IP ->``` bagian ```Interface``` pilih ```ether5 -> Apply/OK```
 >
 > ```ether5``` disini di peruntukan untuk (public) atau internet keluar.
 > 
@@ -46,7 +47,7 @@ Konfigurasi MikroTik menggunakan WinBox:
 > 
 > DHCP merupakan service yang memiliki fungsi utama mendistribusikan IP Address secara otomatis kepada setiap client yang terhubung dengan jaringan.
 >
-> ```IP -> DHCP Server ->``` tab ```DHCP``` klik ```( + ) ->``` menu DHCP Setup lalu DHCP Server Interface pilih= ```ether5 -> Next-Next ->``` sampai selesai kemudian ```OK```
+> ```IP -> DHCP Server ->``` tab ```DHCP``` klik ```( + ) ->``` menu ```DHCP Setup``` lalu ```DHCP Server Interface``` pilih= ```ether5 -> Next-Next ->``` sampai selesai kemudian ```OK```
 >
 > **ether5** disini sebagai sumber internet keluar (public) yang terhubung ke pc/laptop.
 >
@@ -56,7 +57,7 @@ Konfigurasi MikroTik menggunakan WinBox:
 > 
 > Network Address Translation (NAT) adalah sebuah proses pemetaan alamat IP dimana perangkat jaringan akan memberikan alamat IP Public ke perangkat jaringan local, sehingga banyak IP Private yang dapat mengakses IP Public.
 >
-> Pilih menu ```IP -> Firewall ->``` pada tab ```NAT ->``` klik ```( + ) ->``` tab ```General ->``` Chain isikan= ```srcnat ->``` Scr.Address isikan ```IP Address ->``` seperti pada no.2 diatas, kemudian tab ```Action ->``` Action isikan= ```masquerade -> Apply/OK```
+> Pilih menu ```IP -> Firewall ->``` pada tab ```NAT ->``` klik ```( + ) ->``` tab ```General -> Chain``` isikan= ```srcnat -> Scr.Address``` isikan= ```IP Address ->``` seperti pada no.2 diatas, kemudian tab ```Action -> Action``` isikan= ```masquerade -> Apply/OK```
 >
 > ![lynis](/images/mikrotik/gambar6.webp "lynis")
 > 
