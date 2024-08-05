@@ -28,21 +28,21 @@ export default defineConfig({
         label: 'Definisi',
         link: '/network/definisi/'
       }, {
-          label: 'WAN',
-          link: '/network/wan/'
-        }, {
         label: 'LAN',
         link: '/network/lan/'
-      },{
+      }, {
+        label: 'WAN',
+        link: '/network/wan/'
+      }, {
         label: 'Konfigurasi',
         link: '/network/mikrotik/'
       }, {
         label: 'Firewall',
         link: '/network/firewall/'
-      },  {
+      }, {
         label: 'VPN',
         link: '/network/vpn/'
-      },  {
+      }, {
         label: 'Monitoring',
         link: '/network/monitoring/'
       }, {
