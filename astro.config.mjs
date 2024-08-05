@@ -8,7 +8,7 @@ export default defineConfig({
   integrations: [starlight({
     title: 'Adi Docs',
     social: {
-      github: 'https://github.com/J1BRIL99/saiunadi.my.id'
+      github: 'https://github.com/jibri199/saiunadi.my.id'
     },
     sidebar: [{
       label: 'Doc',
@@ -25,20 +25,20 @@ export default defineConfig({
     }, {
       label: 'Network',
       items: [{
-        label: 'LAN',
-        link: '/network/lan/'
+        label: 'Definisi',
+        link: '/network/definisi/'
       }, {
           label: 'WAN',
           link: '/network/wan/'
         }, {
-        label: 'Definisi',
-        link: '/network/definisi/'
-      }, {
-        label: 'Konfigurasi',
-        link: '/network/mikrotik/'
+        label: 'LAN',
+        link: '/network/lan/'
       }, {
         label: 'VPN',
         link: '/network/vpn/'
+      }, {
+        label: 'Konfigurasi',
+        link: '/network/mikrotik/'
       }, {
         label: 'Monitoring',
         link: '/network/monitoring/'
