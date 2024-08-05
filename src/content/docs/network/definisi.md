@@ -29,7 +29,7 @@ description: Tutorial jaringan
 >
 >> Pada dasarnya, ```switch``` dan ```hub``` memiliki fungsi utama yang tampak sama dalam sebuah perangkat jaringan yang umum digunakan sebagai titik koneksi untuk sejumlah perangkat dalam Jaringan Area Lokal (LAN), yaitu sebagai perangkat yang mengatur lalu lintas jaringan dengan menggunakan koneksi port konektor. Meskipun demikian, perbedaan fungsi dan kegunaannya sangat signifikan.
 >>
->> ```Hub``` mempunyai prinsip kerja yaitu menerima dan mengirim sinyal listrik dari kabel yang tersambung. Sedangkan ```Switch,``` memiliki prinsip kerja yang lebih kompleks, yaitu : Mengirim dan menerima sinyal. Memproses sebuah informasi data antar jaringan.
+>> ```Hub``` mempunyai prinsip kerja yaitu menerima dan mengirim sinyal listrik dari kabel yang tersambung. Sedangkan ```Switch``` memiliki prinsip kerja yang lebih kompleks, yaitu : Mengirim dan menerima sinyal. Memproses sebuah informasi data antar jaringan.
 >
 > ###### ```Network Interface Card (NIC)```
 > Adalah komponen penting dalam penyediaan jaringan dalam komputer dan server. Ini merupakan komponen berupa circuit card yang nantinya dipasang pada perangkat komputer.
