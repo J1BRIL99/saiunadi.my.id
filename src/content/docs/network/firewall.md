@@ -1,6 +1,6 @@
 ---
-title: Tunneling VPN
-description: Cara seeting tunnel VPN dengan wireguard
+title: Setup Firewall Pada Jaringan
+description: Tutorial setting firewall mikrotik
 ---
 
 :::note[Pengertian dan mafaat dari Networking dalam dunia IT]

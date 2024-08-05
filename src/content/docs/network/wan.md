@@ -1,9 +1,9 @@
 ---
 title: Wide Area Network (WAN)
-description: Wide Area Network (WAN).
+description: Wide area network (WAN).
 ---
 
-:::note[Pengertian dan mafaat dari Networking dalam dunia IT.]
+:::note[Pengertian dan mafaat dari Networking dalam dunia IT]
 :::
 
 > ###### ```Fungsi```

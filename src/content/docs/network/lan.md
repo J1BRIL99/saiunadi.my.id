@@ -1,9 +1,9 @@
 ---
 title: Local Area Network (LAN)
-description: Local Area Network (LAN)
+description: Local area network (LAN)
 ---
 
-:::note[Pengertian dan mafaat dari Networking dalam dunia IT.]
+:::note[Pengertian dan mafaat dari Networking dalam dunia IT]
 :::
 >
 > Networking dalam bahasa Inggris berarti **jaringan**, sebuah jaringan dalam dunia IT, Network berarti jaringan komputer yang saling terhubung satu sama lain, baik itu jaringan yang terhubung menggunakan internet, atau terhubung secara lokal menggunakan kabel Local Area Network (LAN) dan WAN (Wide Area Network).

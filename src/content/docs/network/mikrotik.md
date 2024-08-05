@@ -1,6 +1,6 @@
 ---
 title: Setup Mikrotik
-description: tutorial setting firewall mikrotik
+description: Tutorial konfigurasi dasar jaringan mikrotik
 ---
 
 :::tip[Konfigurasi Dasar Jaringan]

@@ -36,6 +36,9 @@ export default defineConfig({
       }, {
         label: 'VPN',
         link: '/network/vpn/'
+      },  {
+        label: 'Firewall',
+        link: '/network/firewall/'
       }, {
         label: 'Konfigurasi',
         link: '/network/mikrotik/'
