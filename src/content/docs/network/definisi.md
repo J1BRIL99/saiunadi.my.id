@@ -23,18 +23,14 @@ description: Tutorial jaringan
 > 
 > ###### ```Access Point (Wireless access point (WAP))```
 > Yang juga dikenal sebagai access point adalah perangkat keras yang digunakan dalam jaringan area lokal nirkabel untuk mengirim dan menerima data.
-> 
-:::caution[Hub/Switch.]
-
-| Indikator | Hub | Switch |
-| --------------- | --------------- | --------------- |
-| Tujuan | Tujuan utama hub adalah mengirimkan sinyal ke port untuk merespon dimana sinyal tersebut diterima | Switch memungkinkan pengaturan koneksi dan penghentian berdasarkan kebutuhan |
-| Layer | Hub bekerja pada physical layer atau lapisan fisik dari sebuah jaringan | Switch bekerja pada data link layer (lapisan tautan data) |
-| Tipe transmisi | Hub hanya menggunakan transmisi tipe broadcast | Switch menggunakan tipe transmisi unicast, multicast, dan broadcast |
-| Port | Jumlah maksimal koneksi port pada Hub adalah 4 | Sedangkan, Switch dapat memiliki 24 hingga 28 port |
-| Packet Filtering | Hub tidak menyediakan penyaringan paket | Switch menggunakan mode transmisi full duplex |
-:::
-> 
+>
+> ###### ```Pengertian Switch Hub dalam sebuah network```
+> ```Hub``` dan ```switch``` seringkali diintegrasikan dalam sebuah perangkat jaringan, penting sekali mengetahui apa saja yang menjadi perbedaannya.
+>
+> Pada dasarnya, ```switch``` dan ```hub``` memiliki fungsi utama yang tampak sama dalam sebuah perangkat jaringan yang umum digunakan sebagai titik koneksi untuk sejumlah perangkat dalam Jaringan Area Lokal (LAN), yaitu sebagai perangkat yang mengatur lalu lintas jaringan dengan menggunakan koneksi port konektor. Meskipun demikian, perbedaan fungsi dan kegunaannya sangat signifikan.
+>
+> ```Hub``` mempunyai prinsip kerja yaitu menerima dan mengirim sinyal listrik dari kabel yang tersambung. Sedangkan ```Switch,``` memiliki prinsip kerja yang lebih kompleks, yaitu : Mengirim dan menerima sinyal. Memproses sebuah informasi data antar jaringan.
+>
 > ###### ```Network Interface Card (NIC)```
 > Adalah komponen penting dalam penyediaan jaringan dalam komputer dan server. Ini merupakan komponen berupa circuit card yang nantinya dipasang pada perangkat komputer.
 > 
@@ -43,6 +39,14 @@ description: Tutorial jaringan
 > 
 > ###### ```Domain Name System (DNS)```
 >DNS adalah sebuah sistem yang bertugas menyimpan semua informasi data domain dalam jaringan. Dengan adanya DNS, domain atau hostname yang ada akan ditranslate dan diterjemahkan dalam alamat IP yang bisa dipahami oleh sistem komputer tanpa harus mengingat susunan angka yang sulit untuk dimengerti. Sehingga dengan adanya DNS, hanya perlu mengingat nama domain website saja untuk dapat diakses.
+>
+> ###### ```Pengenalan dan manfaat firewall pada suatu jaringan```
+> Firewall adalah sebuah sistem atau perangkat yang mengizinkan lalu lintas jaringan yang dianggap aman untuk melaluinya dan mencegah lalu lintas jaringan yang tidak aman.
+>
+> Firewall dapat memblokir lalu lintas dari sumber yang mencurigakan, mencegah malware masuk ke jaringan. Ini sangat penting untuk melindungi data dan sistem dari kerusakan yang disebabkan oleh perangkat lunak berbahaya.
+>
+> ###### ```Virtual Private Network (VPN)```
+> Virtual Private Network atau biasa disebut VPN adalah Sebuah cara aman untuk mengakses local area network yang berada pada jangkauan tertentu, dengan menggunakan internet atau jaringan umum lainnya untuk melakukan transmisi data paket secara pribadi.
 >
 :::tip[Masing – masing tugas dari Client dan Server.]
 
