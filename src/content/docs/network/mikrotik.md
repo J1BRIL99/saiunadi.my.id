@@ -3,8 +3,8 @@ title: Setup Mikrotik
 description: Tutorial konfigurasi dasar jaringan mikrotik
 ---
 
-:::tip[Konfigurasi Dasar Jaringan]
-Konfigurasi MikroTik menggunakan WinBox:
+:::tip[Tutorial Dasar Networking Dalam Dunia IT]
+Konfigurasi Dasar MikroTik menggunakan WinBox.
 :::
 
 ###### ```1. Menambahkan DHCP client```
@@ -68,14 +68,3 @@ Konfigurasi MikroTik menggunakan WinBox:
 > 
 > ![lynis](/images/mikrotik/gambar7.webp "lynis")
 > 
-
-###### Firewall
-```sad a```
-###### Accept/Allow
-```asdasd```
-###### Drop Coonection
-```asdasd```
-###### Scaning
-```asdasd```
-###### DDOS
-```asdasd```

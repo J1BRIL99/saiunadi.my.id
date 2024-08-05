@@ -3,6 +3,6 @@ title: Maintanance
 description: Maintanance jaringan
 ---
 
-:::note[Pengertian dan mafaat dari Networking dalam dunia IT]
+:::note[Pengertian dan mafaat dari networking dalam dunia IT]
 :::
 

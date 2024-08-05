@@ -3,28 +3,18 @@ title: Setup Firewall Pada Jaringan
 description: Tutorial setting firewall mikrotik
 ---
 
-:::note[Pengertian dan mafaat dari Networking dalam dunia IT]
+:::tip[Konfigurasi Dasar Jaringan Dalam Dunia IT]
+Konfigurasi Firewall Pada Jaringan.
 :::
 
-###### Standard Setup
 
-###### CHR Server
-sad a
-###### Create and Connect
+###### Firewall
+```sad a```
+###### Accept/Allow
 ```asdasd```
-###### Route
+###### Drop Coonection
 ```asdasd```
-###### Firewall / NAT
+###### Scaning
 ```asdasd```
-
-###### Mikrotik Client
-sad a
-###### Create and Connect
-```asdasd```
-###### Route
-```asdasd```
-###### Firewall / NAT
-```asdasd```
-
-###### Hardening
+###### DDOS
 ```asdasd```

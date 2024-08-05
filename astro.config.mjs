@@ -33,16 +33,16 @@ export default defineConfig({
         }, {
         label: 'LAN',
         link: '/network/lan/'
-      }, {
-        label: 'VPN',
-        link: '/network/vpn/'
-      },  {
-        label: 'Firewall',
-        link: '/network/firewall/'
-      }, {
+      },{
         label: 'Konfigurasi',
         link: '/network/mikrotik/'
       }, {
+        label: 'Firewall',
+        link: '/network/firewall/'
+      },  {
+        label: 'VPN',
+        link: '/network/vpn/'
+      },  {
         label: 'Monitoring',
         link: '/network/monitoring/'
       }, {

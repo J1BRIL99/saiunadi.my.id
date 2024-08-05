@@ -3,8 +3,10 @@ title: Tunneling VPN
 description: Cara seeting tunnel VPN dengan wireguard
 ---
 
-:::note[Pengertian dan mafaat dari Networking dalam dunia IT]
+:::tip[Konfigurasi Dasar Networking Dalam Dunia IT]
+Tunneling VPN Pada Jaringan.
 :::
+
 
 ###### Standard Setup
 

@@ -3,7 +3,7 @@ title: Index
 description: Tutorial jaringan
 ---
 
-:::note[Definisi Networking dalam dunia IT]
+:::note[Definisi Networking Dalam Dunia IT]
 :::
 >
 > ###### ```Jaringan komputer (computer network)```
