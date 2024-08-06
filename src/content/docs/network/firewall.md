@@ -64,13 +64,3 @@ Mengenal Firewall Pada Sistem Jaringan Lokal?
 - Supaya setting firewall Mikrotik yang sudah di buat bisa berjalan, pastikan traffic yang melewati Mikrotik yang sudah di setting itu. Jika tidak, maka rule firewall nya tidak bisa jalan.
 :::
 
-###### Firewall
-```sad a```
-###### Accept/Allow
-```asdasd```
-###### Drop Coonection
-```asdasd```
-###### Scaning
-```asdasd```
-###### DDOS
-```asdasd```
