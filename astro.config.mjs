@@ -34,7 +34,7 @@ export default defineConfig({
         label: 'WAN',
         link: '/network/wan/'
       }, {
-        label: 'Konfigurasi',
+        label: 'MikroTik',
         link: '/network/mikrotik/'
       }, {
         label: 'Firewall',

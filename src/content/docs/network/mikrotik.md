@@ -1,12 +1,18 @@
 ---
-title: Setup Mikrotik
+title: Konfigurasi Dasar Mikrotik
 description: Tutorial konfigurasi dasar jaringan mikrotik
 ---
 
 :::tip[Tutorial Dasar Networking Dalam Dunia IT]
-Konfigurasi Dasar MikroTik menggunakan WinBox.
+Pengenalan fungsinya dasar Mikrotik dan winbox?
 :::
-
+>
+> ###### Pengenalan fungsinya dasar Mikrotik dan winbox?
+>
+> ```Mikrotik``` merupakan sebuah sistem operasi berbasis perangkat lunak (software) yang digunakan untuk mengubah komputer menjadi sebuah router dalam suatu jaringan. Menggunakan sistem operasi yang berbasis Linux dan menjadi dasar bagi router jaringan.
+>
+> ```Winbox``` adalah salah satu aplikasi untuk konfigurasi Mikrotik RouterOS menggunakan GUI. Aplikasi Winbox bisa berjalan pada windows berbentuk portable binary, tapi bisa juga berjalan pada Linux dan MACOS (OSX) menggunakan Wine. Semua fungsi pada aplikasi Winbox hampir sama persis dengan fungsi konsol (command line).
+>
 ###### ```1. Menambahkan DHCP client```
 > 
 > DHCP (Dynamic Host Configuration Protocol) berfungsi berfungsi dalam memastikan supaya perangkat yang terhubung di sebuah jaringan memperoleh alamat IP sesuai dengan yang diberikan server atau sumber internet, yaitu dengan cara ke menu:
