@@ -54,7 +54,7 @@ Mengenal Firewall Pada Sistem Jaringan Lokal?
 >
 > Masih banyak lagi implementasi yang bisa kita terapkan menggunakan fitur firewall Mikrotik ini. Masing-masing implementasi ini memiliki cara setting firewall Mikrotik yang berbeda-beda. Berikut contoh penerapan Konfigurasi Firewall pada Mikrotik:
 >
-> ```IP –> Firewall –>``` tab ```Filter Rules –>``` tambahkan rule firewall baru dengak klik tombol ```( + )``` pada tab ```General ->``` pilih ```Chain : forward``` dan ```Dst. Address``` diisi ```IP Address ->``` target yang mau di blok, misalnya IP 192.168.1.2 Kemudian masuk ke tab ```Action ->``` pada opsi Action pilih ```Drop -> Apply/OK```
+> ```IP –> Firewall –>``` tab ```Filter Rules –>``` tambahkan rule firewall baru dengak klik ```( + )``` pada tab ```General ->``` pilih ```Chain : forward``` dan ```Dst. Address``` diisi ```IP Address ->``` target yang mau di blok, misalnya IP 192.168.1.2 Kemudian masuk ke tab ```Action ->``` pada opsi Action pilih ```Drop -> Apply/OK```
 >
 > ![lynis](/images/mikrotik/gambar9.webp "lynis")
 >
