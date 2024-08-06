@@ -17,6 +17,14 @@ Cara Kerja Tunneling VPN Pada Jaringan?
 >
 > VPN Tunnel menyembunyikan alamat IP asli pengguna dan menggantinya dengan alamat IP dari server VPN. Hal ini memungkinkan pengguna untuk menjelajah internet secara anonim atau pribadi dan meningkatkan privasi online yang terenkripsi. Artinya, aktivitas online tidak dapat dilacak langsung ke pengguna.
 >
+> ```Contohnya:``` Untuk menghubungkan antar 1 PC dengan yang lain, VPN membutuhkan sebuah Server VPN yang dapat berupa komputer dengan aplikasi VPN Server. Komputer dengan aplikasi VPN Client ini kemudian akan mengontak Server VPN, VPN Server kemudian melakukan verifikasi username dan password dan apabila berhasil, VPN Server memberikan IP Address baru pada komputer client dan selanjutnya sebuah koneksi / tunnel akan terbentuk.
+>
+:::tip[Kesimpulan]
+```Apa itu tunneling VPN?```
+
+Terowongan VPN adalah koneksi antara mesin Anda dan server VPN. Terowongan VPN menghubungkan perangkat Anda ke server dari jaringan berbeda dan memungkinkan perangkat berkomunikasi seolah-olah mereka adalah bagian dari jaringan yang sama. Terowongan VPN juga dapat digunakan untuk melindungi pengguna dari serangan dan menyembunyikan aktivitas online mereka.
+:::
+
 
 ###### Standard Setup
 
