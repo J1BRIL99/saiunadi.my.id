@@ -17,7 +17,7 @@ Pengenalan fungsinya dasar Mikrotik dan winbox?
 > 
 > DHCP (Dynamic Host Configuration Protocol) berfungsi berfungsi dalam memastikan supaya perangkat yang terhubung di sebuah jaringan memperoleh alamat IP sesuai dengan yang diberikan server atau sumber internet, yaitu dengan cara ke menu:
 >
-> ```IP -> DHCP Client ->``` pada tab ```DHCP Client``` klik ```( + ) ->``` tab ```DHCP``` pada ```Interface``` pilih= ```ether1 -> Apply/OK```
+> ```IP -> DHCP Client ->``` pada tab ```DHCP Client``` klik ```( + ) ->``` tab ```DHCP``` pada ```Interface``` pilih ```ether1 -> Apply/OK```
 >
 > ```ether1``` disini sebagai suber masuk Internet.
 >
