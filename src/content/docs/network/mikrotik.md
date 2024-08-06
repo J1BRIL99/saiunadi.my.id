@@ -73,4 +73,3 @@ Pengenalan fungsinya dasar Mikrotik dan winbox?
 > Disable lalu Enable bagian ```Local Area Connection``` dan untuk ```Linux``` pergi ke-```Setting -> Network ->``` Disable lalu Enable pada ```Wired connection```
 > 
 > ![lynis](/images/mikrotik/gambar7.webp "lynis")
-> 

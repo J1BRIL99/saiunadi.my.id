@@ -63,4 +63,3 @@ Mengenal Firewall Pada Sistem Jaringan Lokal?
 - Konfigurasi Firewall pada Mikrotik cukup banyak dan beragam, tergantung kebutuhan kita mau menggunakan fungsi firewall Mikrotik yang mana. Contoh penggunaan firewall Mikrotik sudah disebutkan di atas.
 - Supaya setting firewall Mikrotik yang sudah di buat bisa berjalan, pastikan traffic yang melewati Mikrotik yang sudah di setting itu. Jika tidak, maka rule firewall nya tidak bisa jalan.
 :::
-
