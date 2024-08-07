@@ -16,7 +16,7 @@ Cara Aman Kirim Data Lewat Jaringan!
 > ```Tahapan pertama```
 > Dalam menggunakan VPN tunnel adalah dengan melakukan koneksi serta konfigurasi pada VPN. Perangkat harus terkoneksi dengan sebuah jaringan, kemudian melakukan koneksi pada VPN. 
 >
-> Selanjutnya proses autentikasi untuk memastikan bahwa perangkat atau pengguna memiliki izin untuk terhubung ke jaringan VPN. Kemudian encryption key akan dibuat dan jenis protokol yang sering terlibat pada tunnel VPN (IPsec/IKEv2, OpenVPN, SSTP, dsb).
+> Selanjutnya proses autentikasi untuk memastikan bahwa perangkat atau pengguna memiliki izin untuk terhubung ke jaringan VPN. Kemudian encryption key akan dibuat dan jenis protokol yang sering terlibat pada tunnel VPN ```(IPsec/IKEv2, OpenVPN, SSTP, dsb).```
 >
 > ###### ```Cara kerja Tunneling di Jaringan```
 >
