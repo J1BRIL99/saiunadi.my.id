@@ -13,6 +13,11 @@ Cara Aman Kirim Data Lewat Jaringan!
 >
 > VPN dapat digunakan untuk melewati pembatasan geografis (negara), sensor internet dan privasi melindungi identitas diri, informasi sensitif, lokasi agar tetap anonim di internet. Terdapat mekanisme VPN yang dapat mengamankan pengiriman suatu data, yaitu ```VPN Tunnel.```
 >
+> ```Tahapan pertama```
+> Dalam menggunakan VPN tunnel adalah dengan melakukan koneksi serta konfigurasi pada VPN. Perangkat harus terkoneksi dengan sebuah jaringan, kemudian melakukan koneksi pada VPN. 
+>
+> Selanjutnya proses autentikasi untuk memastikan bahwa perangkat atau pengguna memiliki izin untuk terhubung ke jaringan VPN. Kemudian encryption key akan dibuat dan jenis protokol yang sering terlibat pada tunnel VPN (IPsec/IKEv2, OpenVPN, SSTP, dsb).
+>
 > ###### ```Cara kerja Tunneling di Jaringan```
 >
 > ```Tunneling``` atau ```terowongan``` adalah metode transmisi data secara rahasia melalui jaringan publik. Namun, data tersebut dimaksudkan untuk digunakan hanya dalam jaringan pribadi. Tunneling jaringan menyediakan koneksi langsung antara server jarak jauh dan jaringan lokal, dan transmisi data tidak terdeteksi oleh jaringan publik.
