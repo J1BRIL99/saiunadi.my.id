@@ -43,6 +43,9 @@ export default defineConfig({
         label: 'VPN',
         link: '/network/vpn/'
       }, {
+        label: 'Pengenalan',
+        link: '/network/basic/'
+      }, {
         label: 'Monitoring',
         link: '/network/monitoring/'
       }, {

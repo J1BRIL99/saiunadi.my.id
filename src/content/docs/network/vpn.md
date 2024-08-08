@@ -31,29 +31,5 @@ Cara Aman Kirim Data Lewat Jaringan!
 :::tip[Kesimpulan]
 ```Apa itu tunneling VPN?```
 
-VPN Tunneling adalah koneksi antara mesin Anda dan server VPN. Terowongan VPN menghubungkan perangkat Anda ke server dari jaringan berbeda dan memungkinkan perangkat berkomunikasi seolah-olah mereka adalah bagian dari jaringan yang sama. Tunneling VPN juga dapat digunakan untuk melindungi pengguna dari serangan dan menyembunyikan aktivitas online mereka.
+VPN Tunneling adalah koneksi antara mesin Anda dan server VPN. VPN Tunnel menghubungkan perangkat Anda ke server dari jaringan berbeda dan memungkinkan perangkat berkomunikasi seolah-olah mereka adalah bagian dari jaringan yang sama. VPN Tunnel juga dapat digunakan untuk melindungi pengguna dari serangan dan menyembunyikan aktivitas online mereka.
 :::
-
-
-###### Standard Setup
-
-###### CHR Server
-sad a
-###### Create and Connect
-```asdasd```
-###### Route
-```asdasd```
-###### Firewall / NAT
-```asdasd```
-
-###### Mikrotik Client
-sad a
-###### Create and Connect
-```asdasd```
-###### Route
-```asdasd```
-###### Firewall / NAT
-```asdasd```
-
-###### Hardening
-```asdasd```
