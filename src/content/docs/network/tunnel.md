@@ -13,8 +13,15 @@ Pengenalan kofigurasi dasar tunnel.
 >
 > Tidak seperti VPN lain, pada wireguard ini tidak mengenal yang namanya server client. Wireguard menggunakan kosep peer yang saling berhubungan.
 >
->Walaupun wireguard ini adalah VPN, dia tidak masuk ke menu ppp, namun memiliki menu sendiri yang memiliki submenu wireguard interface dan peers.
+> 
 >
+###### ```Konfigurasi Wireguard Mikrotik```
+>
+> ```Menyiapkan IP Publik``` Pastikan pada router Mikrotik juga sudah bisa terkoneksi dengan internet atau minimal kita sudah melakukan basic configuration.
+>
+> Konfigurasi wireguard ini bukan pada menu PPP namun ada menu sendiri yaitu ```wireguard.```
+>
+> ```wireguard =>``` klik ```( + ) → apply```
 >
 ###### CHR Server
 sad a
